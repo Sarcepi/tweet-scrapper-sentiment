@@ -30,7 +30,7 @@ This project is designed to:
 - **Streamlit-Powered Interface:** Enjoy a modern, responsive dashboard with intuitive controls and real-time updates.
 - **Comprehensive Visualizations:** Dive deep into tweet trends, popular keywords, and topic distributions with dynamic Plotly charts.
 
-### 🔍 NLP & Topic Modeling
+### NLP & Topic Modeling
 - **Text Preprocessing:** Clean and tokenize tweets to filter out noise and enhance analysis.
 - **Topic Extraction:** Discover trending topics using LDA and visualize word embeddings via PCA projections.
 
